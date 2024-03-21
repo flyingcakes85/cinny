@@ -3,5 +3,5 @@
   "homeserverList": [
     "matrix.snehit.dev"
   ],
-  "allowCustomHomeservers": true
+  "allowCustomHomeservers": false
 }
