@@ -1,0 +1,7 @@
+{
+  "defaultHomeserver": 3,
+  "homeserverList": [
+    "matrix.snehit.dev"
+  ],
+  "allowCustomHomeservers": true
+}
