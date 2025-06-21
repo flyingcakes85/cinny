@@ -1,7 +1,19 @@
 {
-  "defaultHomeserver": 0,
+  "defaultHomeserver": 1,
   "homeserverList": [
-    "matrix.snehit.dev"
+    "ca.snehit.dev"
   ],
-  "allowCustomHomeservers": false
+  "allowCustomHomeservers": true,
+
+  "featuredCommunities": {
+    "openAsDefault": false,
+    "spaces": [],
+    "rooms": [],
+    "servers": ["ca.snehit.dev"]
+  },
+
+  "hashRouter": {
+    "enabled": false,
+    "basename": "/"
+  }
 }
